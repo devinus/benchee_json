@@ -1,3 +1,11 @@
+# 0.4.0 - 2017-10-24
+
+## Features
+
+* benchee 0.10 compatibility
+* You can now also specify the formatter as just `Benchee.Formatters.JSON`
+
+
 # 0.3.1 - 2017-05-07
 
 ## Bugfixes
